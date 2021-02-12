@@ -1,0 +1,32 @@
+[
+  {
+    "name": "RegressionTestKarate-",
+    "type": "conversational",
+    "description": null,
+    "tags": null
+  },
+  {
+    "name": "RegressionTestKarate-",
+    "type": "informational",
+    "description": "Poseidon was one of the Twelve Olympians in ancient Greek religion and myth, god of the sea, storms.",
+    "tags": null
+  },
+  {
+    "name": "RegressionTestKarate-",
+    "type": "transactional",
+    "description": null,
+    "tags": ["regression", "poseidon", "suite", "test"]
+  },
+  {
+    "name": "RegressionTestKarate-",
+    "type": "operational",
+    "description": "Poseidon was one of the Twelve Olympians in ancient Greek religion and myth, god of the sea, storms.",
+    "tags": ["regression", "poseidon", "suite", "test"]
+  },
+  {
+    "name": "RegressionTestKarate-NameMaxLength0$-",
+    "type": "promotional",
+    "description": "Poseidon was one of the Twelve Olympians in ancient Greek religion and myth, god of the sea, storms. He had also the cult title 'earth shaker'. In the myths of isolated Arcadia he is related with Demeter and Persephone and he was venerated as a horse",
+    "tags": ["regression", "poseidon", "suite", "test", "elFVO8z4LTLlBrRXj1UGaaaaa", "NpfC4aaLOGLD0QVvCy6Fbbbbb", "uHOhMEekqIk2WjkWlGRdccccc", "wvj2FXmzQaiWZKYYWroRddddd", "h00JHiqqJHX2x6mweNUleeeee", "QPw6uy8gtqOkLLrAvRfJfffff"]
+  }
+]

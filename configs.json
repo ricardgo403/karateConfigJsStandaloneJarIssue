@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "poseidonHost": "https://jsonplaceholder.typicode.com/",
+    "apolloHost": "https://docs.postman-echo.com/",
+    "key": "2bd83a8380",
+    "oneWayTemplateId": "0512908e",
+    "scratchTemplateId": "1a89b573"
+  },
+  "stg": {
+    "poseidonHost": "https://jsonplaceholder.typicode.com/",
+    "apolloHost": "https://docs.postman-echo.com/",
+    "key": "2bd83a8380",
+    "oneWayTemplateId": "0512908e",
+    "scratchTemplateId": "1a89b573"
+  },
+  "prd": {
+    "poseidonHost": "https://jsonplaceholder.typicode.com/",
+    "apolloHost": "https://docs.postman-echo.com/",
+    "key": "2bd83a8380",
+    "oneWayTemplateId": "0512908e",
+    "scratchTemplateId": "1a89b573"
+  }
+}
